@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IT232_Collier_M2_Calculator", "IT232_Collier_M2_Calculator\IT232_Collier_M2_Calculator.csproj", "{9F145D95-0539-45D6-927F-27293BB8CF3B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F145D95-0539-45D6-927F-27293BB8CF3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F145D95-0539-45D6-927F-27293BB8CF3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F145D95-0539-45D6-927F-27293BB8CF3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F145D95-0539-45D6-927F-27293BB8CF3B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5DEAFA40-A7EE-4D9B-B7BC-2BA58DB4514A}
+	EndGlobalSection
+EndGlobal

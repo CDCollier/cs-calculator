@@ -1,0 +1,10 @@
+C:\Users\chrcollier\source\repos\IT232_Collier_M2_Calculator\IT232_Collier_M2_Calculator\bin\Debug\IT232_Collier_M2_Calculator.exe.config
+C:\Users\chrcollier\source\repos\IT232_Collier_M2_Calculator\IT232_Collier_M2_Calculator\bin\Debug\IT232_Collier_M2_Calculator.exe
+C:\Users\chrcollier\source\repos\IT232_Collier_M2_Calculator\IT232_Collier_M2_Calculator\bin\Debug\IT232_Collier_M2_Calculator.pdb
+C:\Users\chrcollier\source\repos\IT232_Collier_M2_Calculator\IT232_Collier_M2_Calculator\obj\Debug\IT232_Collier_M2_Calculator.csprojAssemblyReference.cache
+C:\Users\chrcollier\source\repos\IT232_Collier_M2_Calculator\IT232_Collier_M2_Calculator\obj\Debug\IT232_Collier_M2_Calculator.Calc.resources
+C:\Users\chrcollier\source\repos\IT232_Collier_M2_Calculator\IT232_Collier_M2_Calculator\obj\Debug\IT232_Collier_M2_Calculator.Properties.Resources.resources
+C:\Users\chrcollier\source\repos\IT232_Collier_M2_Calculator\IT232_Collier_M2_Calculator\obj\Debug\IT232_Collier_M2_Calculator.csproj.GenerateResource.cache
+C:\Users\chrcollier\source\repos\IT232_Collier_M2_Calculator\IT232_Collier_M2_Calculator\obj\Debug\IT232_Collier_M2_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\chrcollier\source\repos\IT232_Collier_M2_Calculator\IT232_Collier_M2_Calculator\obj\Debug\IT232_Collier_M2_Calculator.exe
+C:\Users\chrcollier\source\repos\IT232_Collier_M2_Calculator\IT232_Collier_M2_Calculator\obj\Debug\IT232_Collier_M2_Calculator.pdb
